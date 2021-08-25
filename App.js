@@ -1,9 +1,3 @@
-import React, { useState, useEffect } from "react";
-import Navbar from "./navbar.js";
-import Card from "./card.js";
-import Axios from "axios";
-import "./app.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 import Loader from "react-loader-spinner";
 
 function App() {
